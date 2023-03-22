@@ -60,6 +60,15 @@ body{
     text-decoration: none;
 }
 
+textarea {
+    height: 180px;
+
+    resize: none;
+}
+
+button {
+    width: 100%;
+}
 
 @media (max-width:767px){
     .carousel-item img{
